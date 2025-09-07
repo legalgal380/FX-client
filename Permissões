@@ -1,0 +1,7 @@
+local Donos = {
+    ["ronia_oys"] = true,
+    ["olliver2045judoca"] = true,
+    ["murilo_12303"] = true,
+    ["Davigemes300617"] = true,
+    ["knlove22"] = true
+}
